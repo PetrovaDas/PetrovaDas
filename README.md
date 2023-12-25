@@ -28,7 +28,6 @@
 
 <div id="link" align="center">
   <h3> :mailbox: My contacts</h3>
-  <br>
   <div id="badges">
      <a href="work.sander.nikita@gmail.com">
         <p color="white">work.sander.nikita@gmail.com</p>
