@@ -30,13 +30,11 @@
   <h3> :mailbox: My contacts</h3>
   <br>
   <div id="badges">
-     <a href="mailto:alekseydevweb@gmail.com">
-        <img src="https://github.com/endjoyer/endjoyer/blob/main/icon/email.png" title="Email" alt="Email" height="40"/>
+     <a href="work.sander.nikita@gmail.com">
         <p color="white">alekseydevweb@gmail.com</p>
      </a>
-     <a href="https://t.me/endjoyer">
-       <img src="https://github.com/endjoyer/endjoyer/blob/main/icon/telegram_button_icon_151837.svg" title="Telegram" alt="Telegram" height="28"/>
+     <a href="https://t.me/s6nder">
+       <img src="" title="Telegram" alt="Telegram" height="28"/>
      </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=endjoyer&style=flat-square&color=blue" alt=""/>
 </div>
