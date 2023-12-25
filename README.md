@@ -31,10 +31,10 @@
   <br>
   <div id="badges">
      <a href="work.sander.nikita@gmail.com">
-        <p color="white">alekseydevweb@gmail.com</p>
+        <p color="white">work.sander.nikita@gmail.com</p>
      </a>
      <a href="https://t.me/s6nder">
-       <img src="" title="Telegram" alt="Telegram" height="28"/>
+       <img src="https://raw.githubusercontent.com/endjoyer/endjoyer/15ab9c4714e3c208fa7e3a9865b58731a53c6c74/icon/telegram_button_icon_151837.svg" title="Telegram" alt="Telegram" height="28"/>
      </a>
   </div>
 </div>
