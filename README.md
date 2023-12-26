@@ -1,6 +1,6 @@
 <div id="header" align="center"> 
   <h1>
-    Привет всем, меня зовут Паша
+    Привет всем, меня зовут Никита
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
