@@ -5,7 +5,7 @@
   </h1>
 </div>
 
-### :men_technologist: About Me 
+### 👨‍💻 About Me 
 
 Я Frontend Разработчик из России <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
@@ -16,7 +16,7 @@
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools
 
 
 ![My Skills](https://skillicons.dev/icons?i=react,js,html,css,webpack,figma,nodejs,mongodb,ts,redux,next,git&theme=dark)
