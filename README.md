@@ -5,7 +5,7 @@
   </h1>
 </div>
 
-### :woman_technologist: About Me :
+### :men_technologist: About Me 
 
 Я Frontend Разработчик из России <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
